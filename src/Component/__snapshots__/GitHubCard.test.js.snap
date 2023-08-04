@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check for card for GitHub 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="http://placekitten.com/g/200/300"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      My Gitgub:leecodexxe
+    </div>
+    <p
+      className="card-text"
+    >
+      Some quick example text to build on the card title and make up the bulk of the card's content.
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      Go to My Github
+    </button>
+  </div>
+</div>
+`;
